@@ -1,0 +1,10 @@
+com\demo\demo\DemoApplication.class
+com\demo\demo\security\WebSecurityConfig.class
+com\demo\demo\utils\UserPrincipal.class
+com\demo\demo\services\UserService.class
+com\demo\demo\entitys\User.class
+com\demo\demo\utils\MyUserDetailService.class
+com\demo\demo\controllers\RedirectController.class
+com\demo\demo\serviceImpls\UserServiceImpl.class
+com\demo\demo\daos\UserDao.class
+com\demo\demo\models\DemoUserDetail.class

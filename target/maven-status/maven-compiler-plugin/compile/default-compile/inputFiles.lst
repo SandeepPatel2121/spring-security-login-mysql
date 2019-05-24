@@ -1,0 +1,10 @@
+E:\Testing\Simple Spring Security example using Basic Authentication Provider\demo\src\main\java\com\demo\demo\entitys\User.java
+E:\Testing\Simple Spring Security example using Basic Authentication Provider\demo\src\main\java\com\demo\demo\security\WebSecurityConfig.java
+E:\Testing\Simple Spring Security example using Basic Authentication Provider\demo\src\main\java\com\demo\demo\utils\MyUserDetailService.java
+E:\Testing\Simple Spring Security example using Basic Authentication Provider\demo\src\main\java\com\demo\demo\DemoApplication.java
+E:\Testing\Simple Spring Security example using Basic Authentication Provider\demo\src\main\java\com\demo\demo\models\DemoUserDetail.java
+E:\Testing\Simple Spring Security example using Basic Authentication Provider\demo\src\main\java\com\demo\demo\serviceImpls\UserServiceImpl.java
+E:\Testing\Simple Spring Security example using Basic Authentication Provider\demo\src\main\java\com\demo\demo\daos\UserDao.java
+E:\Testing\Simple Spring Security example using Basic Authentication Provider\demo\src\main\java\com\demo\demo\services\UserService.java
+E:\Testing\Simple Spring Security example using Basic Authentication Provider\demo\src\main\java\com\demo\demo\utils\UserPrincipal.java
+E:\Testing\Simple Spring Security example using Basic Authentication Provider\demo\src\main\java\com\demo\demo\controllers\RedirectController.java
